@@ -1,1 +1,3 @@
 ini untuk pesan branch 1  tolong dibaca
+ini adalah dibawah branch ke 2
+ini adalah file pesan didalam branch 2 pesan ini hanya untuk ditulis bukan dibaca
